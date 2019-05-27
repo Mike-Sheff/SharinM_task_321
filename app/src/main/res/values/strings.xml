@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Цепочка текста</string>
+    <string name="textMessageDeleteOrClear">Будьте внимательны: значение ещё не задано!</string>
+    <string name="textMessageTwoPoint">Точку можно поставить только один раз!</string>
+    <string name="textButtonClear">C</string>
+    <string name="textButtonDelete">Del</string>
+    <string name="textErrorValue">Нет значения слагаемого для операции!</string>
+    <string name="textErrorZeroValue1">Ноль нельзя разделить!</string>
+    <string name="textErrorZeroValue2">На ноль делить нельзя!</string>
+</resources>
